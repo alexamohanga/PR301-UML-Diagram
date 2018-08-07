@@ -1,0 +1,3 @@
+install Pylint
+install Graphviz
+https://gist.github.com/HarshaVardhanBabu/9a47db9e33cf06e9e1e917520bb54056
