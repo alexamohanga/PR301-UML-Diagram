@@ -1,0 +1,9 @@
+class name 
+method name
+object attrib
+class attrib
+input parameter /w default value
+method with return
+
+members with one _ are protected
+members with 2 __s are private 
